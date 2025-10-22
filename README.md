@@ -45,18 +45,17 @@ Construído com **HTML5, CSS3, JavaScript, Bootstrap** e **Font Awesome**, o pro
 
 ## 🧩 Estrutura do Projeto
 
-## starbucks-ia/
-│
-├── index.html
-├── /assets
-│ ├── /img
-│ ├── /css
-│ └── /js
-│
-├── /ai
-│ └── agent.js → integração com IA
-│
-└── README.md
+📂 **starbucks-ia/**
+
+├── 📄 index.html
+├── 📁 assets/
+│   ├── 📁 img/
+│   ├── 📁 css/
+│   └── 📁 js/
+├── 📁 ai/
+│   └── 🤖 agent.js → integração com IA
+└── 📝 README.md
+
 
 
 ---
