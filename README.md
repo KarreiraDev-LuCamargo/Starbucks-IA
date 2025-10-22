@@ -49,11 +49,11 @@ Construído com **HTML5, CSS3, JavaScript, Bootstrap** e **Font Awesome**, o pro
 
 ├── 📄 index.html <br>
 ├── 📁 assets/ <br>
-│   ├── 📁 img/ <br>
-│   ├── 📁 css/ <br>
-│   └── 📁 js/ <br>
+│     ├── 📁 img/ <br>
+│     ├── 📁 css/ <br>
+│     └── 📁 js/ <br>
 ├── 📁 ai/ <br>
-│   └── 🤖 agent.js → integração com IA
+│     └── 🤖 agent.js → integração com IA <br>
 └── 📝 README.md
 
 
